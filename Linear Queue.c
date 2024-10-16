@@ -62,6 +62,7 @@ void dequeue()
         front=rear=-1;
     }
     else{
+        printf("Dequeued element is: ");
         printf("%d",queue[front]);
         front++;
     }
