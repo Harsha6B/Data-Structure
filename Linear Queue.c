@@ -62,8 +62,8 @@ void dequeue()
         front=rear=-1;
     }
     else{
-        front++;
         printf("%d",queue[front]);
+        front++;
     }
 }
 void display()
