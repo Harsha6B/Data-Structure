@@ -88,3 +88,145 @@ void peek()
         printf("%d",queue[front]);
     }
 }
+
+
+OUTPUT :
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:1
+Enter the value to be inserted: 10
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:1
+Enter the value to be inserted: 20
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:1
+Enter the value to be inserted: 30
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:1
+Enter the value to be inserted: 40
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:1
+Enter the value to be inserted: 50
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:3
+Queue elements are: 
+10
+20
+30
+40
+50
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:1
+Enter the value to be inserted: 56
+Queue is full!
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:2
+Dequeued element is: 10
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:2
+Dequeued element is: 20
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:4
+30
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:3
+Queue elements are: 
+30
+40
+50
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:2
+Dequeued element is: 30
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:2
+Dequeued element is: 40
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:3
+Queue elements are: 
+50
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:2
+
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:4
+Queue is empty!
+1.Enqueue
+2. Dequeue
+3. Display
+4. Peek
+5. Exit
+Enter your choice:5
+
+
+=== Code Execution Successful ===
