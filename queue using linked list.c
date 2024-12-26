@@ -65,3 +65,54 @@ default:printf("Invalid choice\n");
 }
 }
 }
+
+*****OUTPUT*****
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter data:10
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter data:20
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:3
+10 20 
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:2
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:3
+20 
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:2
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:3
+Queue is empty
+
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:4
+
+
+=== Code Execution Successful ===
