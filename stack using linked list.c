@@ -65,3 +65,42 @@ void main(){
   }
 }
 }
+
+
+*****OUTPUT*****
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice: 1
+Enter data:10
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice: 3
+10 
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice: 2
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice: 4
+
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice: 5
+
+
+=== Code Execution Successful ===
