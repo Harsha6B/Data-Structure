@@ -89,35 +89,40 @@ OUTPUT:
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 1
 Enter the value to be inserted: 10
 Insertion success
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 1
 Enter the value to be inserted: 20
 Insertion success
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 1
 Enter the value to be inserted: 30
 Insertion success
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 1
 Enter the value to be inserted: 40
 OVERFLOW
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 3
 Stack elements are:
 30
@@ -127,13 +132,15 @@ Stack elements are:
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 2
 deleted
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 3
 Stack elements are:
 20
@@ -142,42 +149,49 @@ Stack elements are:
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 4
 20
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 2
 deleted
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 2
 deleted
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 2
 UNDERFLOW
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 3
 UNDERFLOW
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 4
 UNDERFLOW
 1.Push
 2.Pop
 3.Display
-4.Peek5.Exit
+4.Peek
+5.Exit
 Enter your choice: 5
 === Code Execution Successful ===
