@@ -46,3 +46,15 @@ void bfs(int v)
 
 
 ******OUTPUT******
+enter the number of vertices
+4
+enter the adjacency matrix
+0 1 1 0
+1 0 1 1
+1 1 0 1
+0 1 1 0
+enter the src vertex
+1
+nodes reachable from src vertex
+1 2 3 4
+
