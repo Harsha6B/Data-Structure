@@ -48,3 +48,14 @@ void dfs(int v)
 
 
 ******OUTPUT******
+Enter the number of vertices:
+4
+Enter the adjacency matrix:
+0 1 1 0
+1 0 1 1
+1 1 0 1
+0 1 1 0
+Enter the source vertex:
+1
+Nodes reachable from source vertex 1:
+1 2 3 4
